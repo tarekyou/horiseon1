@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*changed subelement to nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,7 +31,8 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*removed unncessary code value zero*/
+/*changed subelement to nav*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -81,7 +82,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/*combined common elements into one class=benefit*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -97,7 +98,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/*combined common elements into one class=main*/
 .main {
     margin-bottom: 20px;
     padding: 50px;
